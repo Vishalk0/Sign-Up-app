@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">signup</string>
+    <string name="log_in">Log-In</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="do_you_forget_your_password">Do you forget your password?</string>
 </resources>
